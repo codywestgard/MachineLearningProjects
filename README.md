@@ -1,4 +1,4 @@
-# MachineLearningProjects
+# Machine Learning Projects
 Collection of projects done by Cody Westgard (and teammates) during the Master's Degree program at GeorgiaTech, shared to exhibit coding skills.
 
 Projects included:
